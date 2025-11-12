@@ -3,7 +3,9 @@ A game design group of nerds.
 
 ## Members
 [HippoProgrammer](https://github.com/HippoProgrammer) - programmer
+
 [Drygith](https://github.com/DrygithTheGM) - programmer, asset design
+
 [Goldenfootie](https://github.com/Goldenfootie) - junior programmer
 
 ## Projects
